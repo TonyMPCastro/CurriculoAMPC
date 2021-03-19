@@ -1,0 +1,18 @@
+body {
+ background-color: #444;
+ color: white;
+ text-align: center;
+ font-family:  Arial;
+ font-weight: 300;
+ font-size: 2res;
+
+}
+
+#t{
+    font-family: fantasy;
+    color: rgb(255, 255, 255);
+}
+
+ul{
+    list-style: none;
+}
